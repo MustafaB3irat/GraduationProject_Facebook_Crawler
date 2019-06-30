@@ -22,8 +22,8 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 public class facebook {
 	
 	public static WebDriver facebook;
-	static String Username = "mrrobotmus@gmail.com";
-	static String Password = "mus%^&4545";
+	static String Username = "";
+	static String Password = "";
 	
 	public static String  current_ele_id;
 	
